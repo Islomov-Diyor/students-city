@@ -204,14 +204,30 @@ footer p i{
 
 .group h4{
     margin-top: 24px;
+    margin-bottom: 20px;
+    font-size: 22px;
 }
 
-.group 
+.group .card{
+    border-width: 0px;
+    box-shadow: 0 32px 54px 0 rgb(22 28 45 / 16%);
+}
 
-.group .user-img{
+.group .card img{
     width: 120px;
     height: 120px;
     border-radius: 50%;
+    margin-left: 38px;
+}
+
+.group .card .user-social-icons{
+    font-size: 23px;
+    color: var(--primary-color);
+}
+
+.group ul li{
+    display: inline;
+    margin-right: 20px;
 }
 
 :root{
