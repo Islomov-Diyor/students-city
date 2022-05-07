@@ -198,6 +198,22 @@ footer p i{
     color: #ffffff;
 }
 
+.group{
+    text-align: center;
+}
+
+.group h4{
+    margin-top: 24px;
+}
+
+.group 
+
+.group .user-img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
 :root{
     --primary-color: #007bba;
     --secondary-color: #015a95;
