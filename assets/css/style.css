@@ -83,7 +83,9 @@ nav ul li{
     background-color: var(--primary-color);
     box-shadow: 0 32px 54px 0 rgb(22 28 45 / 16%);
     border-radius: .25rem;
+    text-transform: none;
 }
+
 .active-main-btn:hover{
     color: #ffffff;
     box-shadow: 0 1rem 3rem rgb(35 38 45 / 15%) !important;
